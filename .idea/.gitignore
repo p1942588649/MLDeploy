@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\manoj.priyadarshi\Desktop\iNeuron\iNeoron_prj\MachineLearningModelToHeroku-master\MLForCloudDeployment_Heroku\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
